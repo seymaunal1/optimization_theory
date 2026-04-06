@@ -18,8 +18,9 @@ The algorithms examined in this project are:
 
 ## Files
 
-- `UnalAydemirEE457hw2.m` → main MATLAB code  
-- `UnalAydemirEE457hw2.pdf` → project report  
+- `UnalAydemirEE457hw2.m` - main MATLAB code  
+- `UnalAydemirEE457hw2.pdf` - project report
+- `EE__45701.pdf` - syllabus of the course
 
 ## Problem Setup
 
