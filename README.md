@@ -20,7 +20,7 @@ The algorithms examined in this project are:
 
 - `UnalAydemirEE457hw2.m` → main MATLAB code  
 - `UnalAydemirEE457hw2.pdf` → project report  
-- 
+
 ## Problem Setup
 
 The Powell function is defined as:
